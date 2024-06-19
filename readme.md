@@ -1,6 +1,8 @@
 # Self-Driving Car AI
 Welcome to the Self-Driving Car AI project! This README provides a brief overview of what the project does, the technologies it uses, and how to set it up and run.
 
+![Alt text](images/demo.jpg)
+
 ## What It Does
 This project simulates a self-driving car using Deep Q-Learning (DQN) to navigate through an environment. The AI learns to avoid obstacles and reach a goal by optimizing its actions based on rewards.
 
